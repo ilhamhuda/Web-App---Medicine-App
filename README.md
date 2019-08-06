@@ -1,7 +1,6 @@
 # webapp
 
-> Manggu Dashboard
-
+> Sirus - CMS for Medicine Store
 ## Build Setup
 
 ``` bash
